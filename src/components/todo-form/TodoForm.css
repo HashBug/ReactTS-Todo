@@ -1,0 +1,19 @@
+.todo-form {
+  display: flex;
+  flex-direction: column;
+  border: 1px dashed #ccc;
+  padding: 2rem;
+}
+
+.todo-input {
+  padding: 0.5em;
+}
+
+.add-button {
+  align-self: center;
+  margin-top: 1em;
+  background-color: #ccc;
+  padding: 0.5em;
+  text-transform: uppercase;
+  border-radius: 4px;
+}
